@@ -1,0 +1,25 @@
+https://docs.servicenow.com/en-US/bundle/utah-employee-service-management/page/product/sn-teams/task/initiate-chat-record.html
+
+https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0720812
+
+https://servicenowguru.com/system-definition/email-notifications-system-definition/email-links-uri-uriref/#comments
+
+
+https://www.servicelater.co.uk/servicenow-inbound-action-auto-response-dont-create-a-ticket/
+https://www.servicenow.com/community/developer-forum/rejecting-inbound-email-that-is-invalid/m-p/1603082
+
+'Date Received' >= "9/2/2023 8:59:56 AM" AND 'Date Received' <= "9/2/2023 14:09:56 PM"
+
+https://developer.servicenow.com/blog.do?p=/post/glidequery-p4/
+
+https://developer.servicenow.com/blog.do?p=/post/training-encoded-query/
+
+https://www.servicenow.com/community/platform-analytics-forum/help-with-conditional-reporting-with-number-of-incidents-opened/m-p/1211364
+
+
+https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0744473
+https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0547662
+https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0719416
+
+
+
